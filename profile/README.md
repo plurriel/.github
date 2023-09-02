@@ -7,4 +7,4 @@ Whether you're a small business aiming to apprear professional, or an individual
 
 Our mission is to free e-mail whilst keeping it as private as possible
 
-[![Start using Plurriel](https://raw.githubusercontent.com/plurriel/.github/main/profile/signup.png)](https://plurriel.email/signup) [![Visit our home page](https://raw.githubusercontent.com/plurriel/.github/main/profile/visit_home.png)](https://plurriel.email/)
+[![Start using Plurriel](https://raw.githubusercontent.com/plurriel/.github/main/profile/signup.png)](https://plurriel.email/signup)![](https://raw.githubusercontent.com/plurriel/.github/main/profile/16px_gap.png)[![Visit our home page](https://raw.githubusercontent.com/plurriel/.github/main/profile/visit_home.png)](https://plurriel.email/)
