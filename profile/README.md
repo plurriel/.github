@@ -1,4 +1,4 @@
-![](banner.png)
+![](./banner.png)
 
 <h1>Plurriel</h1>
 <h2>The only e-mail app you'll need</h2>
